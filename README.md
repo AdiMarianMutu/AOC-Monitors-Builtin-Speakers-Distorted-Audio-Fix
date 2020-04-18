@@ -1,5 +1,5 @@
 # AOC Monitors Builtin Speakers Distorted Audio Fix
-This Powershell script tries to fix the distorted audio which sometimes can happen using the built in speakers of AOC Monitors
+This Powershell script tries to fix the distorted audio which sometimes can happen using the built in speakers of AOC Monitors by turning it off and on after one second (time value can be modified)
 
 
 ## How to use
